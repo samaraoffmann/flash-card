@@ -21,3 +21,15 @@ criaCartao(
     'Como se diz oi em Inglês?',
     'Oi em ingles é HI (RAI)'
 )
+
+criaCartao(
+    'Esporte',
+    'Qual ano a Seleção Brasileira ganhou a primeira copa do mundo?',
+    'No ano de 1958, na Suécia'
+)
+
+criaCartao(
+    'História',
+    'Em que período da pré-história o fogo foi descoberto??',
+    'Foi no Paleolítico que o fogo começou a ser utilizado'
+)
