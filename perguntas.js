@@ -30,6 +30,6 @@ criaCartao(
 
 criaCartao(
     'História',
-    'Em que período da pré-história o fogo foi descoberto??',
+    'Em que período da pré-história o fogo foi descoberto?',
     'Foi no Paleolítico que o fogo começou a ser utilizado'
 )
