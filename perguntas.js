@@ -1,25 +1,37 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'Geografia',
+    'Qual é o rio mais longo do mundo?',
+    'Rio Amazonas'
 )
 
 criaCartao(
     'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Qualoceano é o maior em extensão?',
+    'Oceano Pacífico'
+ )
+
+criaCartao(
+    'Geografia',
+    'Qual é a montanha mais alta da América do Sul?',
+    'Aconcocágua'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'História',
+    'Qual foi a civilização mais antiga do mundo?',
+    'Mesopotâmia'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'História,
+    'Qual foi o evento que marcou o fim da Idade Média?',
+    'A queda de Constantinopla em 1453'
+)
+
+criaCartao(
+    'História',
+    'Em que período da pré-história o fogo foi descoberto?',
+    'Foi no Paleolítico que o fogo começou a ser utilizado'
 )
 
 criaCartao(
@@ -29,7 +41,13 @@ criaCartao(
 )
 
 criaCartao(
-    'História',
-    'Em que período da pré-história o fogo foi descoberto?',
-    'Foi no Paleolítico que o fogo começou a ser utilizado'
+    'Esporte',
+    'Quem é o maior artilheiro da história da NBA?',
+    'LeBron James,com 40.036 pontos'
+)
+
+criaCartao(
+    'Esporte',
+    'Que esporte é famoso como balé aquático?',
+    'Nado sincronizado/artístico'
 )
