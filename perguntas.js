@@ -6,7 +6,7 @@ criaCartao(
 
 criaCartao(
     'Geografia',
-    'Qualoceano é o maior em extensão?',
+    'Qual oceano é o maior em extensão?',
     'Oceano Pacífico'
  )
 
