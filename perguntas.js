@@ -6,8 +6,8 @@ criaCartao(
 
 criaCartao(
     'Geografia',
-    'Qual oceano é o maior em extensão?',
-    'Oceano Pacífico'
+    'Onde fica o maior arquipélago do mundo?',
+    ' Na Indonésia, formada por aproximadamente 14 mil ilhas no Oceano Índico'
  )
 
 criaCartao(
@@ -50,4 +50,40 @@ criaCartao(
     'Esporte',
     'Que esporte é famoso como balé aquático?',
     'Nado sincronizado/artístico'
+)
+
+criaCartao(
+    'Música',
+    'Qual cantor é conhecido como 'Rei do Rock'?',
+    'Elvis Presley'
+)
+
+criaCartao(
+    'Música',
+    'Quem é a cantora conhecida pelo hit 'Bad Guy'?',
+    'Billie Eilish'
+)
+
+criaCartao(
+    'Música',
+    'Qual artista feminino mais ouvido no spotify?',
+    'A cantora Taylor Swift'
+)
+
+criaCartao(
+    'Animais',
+    'Qual é o maior peixe da Amazônia?',
+    'Pirarucu, que pode atingir até 3 metros de comprimento e pesar mais de 200 quilos'
+)
+
+criaCartao(
+    'Animais',
+    'Qual é o maior carnívoro terrestre',
+    'Urso-polar'
+)
+
+criaCartao(
+    'Animais',
+    'Qual é o menor mamífero do mundo?',
+    'Musaranho-pigmeu'
 )
