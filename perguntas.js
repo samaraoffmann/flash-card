@@ -1,13 +1,13 @@
 criaCartao(
     'Geografia',
-    'Qual é o rio mais longo do mundo?',
-    'Rio Amazonas'
+    'Qual é o único continente situado em todos os hemisférios da terra?',
+    'Continente Africano'
 )
 
 criaCartao(
     'Geografia',
     'Onde fica o maior arquipélago do mundo?',
-    ' Na Indonésia, formada por aproximadamente 14 mil ilhas no Oceano Índico'
+    'Na Indonésia, formada por aproximadamente 14 mil ilhas no Oceano Índico'
  )
 
 criaCartao(
@@ -78,12 +78,12 @@ criaCartao(
 
 criaCartao(
     'Animais',
-    'Qual é o maior carnívoro terrestre',
-    'Urso-polar'
+    'Qual é o menor mamífero do mundo?',
+    'Musaranho-pigmeu'
 )
 
 criaCartao(
     'Animais',
-    'Qual é o menor mamífero do mundo?',
-    'Musaranho-pigmeu'
+    'Onde fica a Ilha de Cobras?',
+    'A Ilha da Queimada Grande, fica a 35 km do litoral de São Paulo, Brasil'
 )
